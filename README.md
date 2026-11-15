@@ -1,13 +1,14 @@
 # Jardi-d-Ocells---Birdgarden-2.0
 Iniciativa educativa que combina la passió per la natura (en particular els ocells) amb el potencial de la tecnologia
 
-<img src="Imatges/Capsa.jpg" width="400" /> <img src="Imatges/LogoBirdGarden.png" width="200" /> <img src="Imatges/LogoFaro.png" width="199" /> 
+<img src="Imatges/Capsa.jpg" width="400" /> <img src="Imatges/LogoBirdGarden.png" width="200" /> 
 
 <img src="Imatges/UnderConstruction.png" width="100" />
 
 <img src="Imatges/Esquema.png" width="400" />
 
-
+GitHub del firmware original desenvolupat per Il Faro d'Argento (Roma) <img src="Imatges/LogoFaro.png" width="199" /> 
+https://github.com/idamato/birdgarden
 
 Realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study jordi.mayne@mechatronicstudy.com <img src="Imatges/Logo3senseFons.png" width="50" />
 
