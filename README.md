@@ -1,7 +1,9 @@
 # Jardi-d-Ocells---Birdgarden-2.0
-Iniciativa educativa que combina la passió per la natura (en particular els ocells) amb el potencial de la tecnologia
+Iniciativa educativa que combina la passió per la natura (en particular els ocells) amb el potencial de la tecnologia.
 
 <img src="Imatges/Capsa.jpg" width="400" />     <img src="Imatges/LogoBirdGarden.png" width="200" /> 
+
+El projecte Birdgarden 2.0 té com a objectiu crear una casa/niu o menjadora per a ocells, monitoritzada a través d'una càmera i un micròfon ocults que faran que les dades recollides, l'àudio i les fotos fetes quan estigui ocupada estiguin disponibles en línia.
 
 <img src="Imatges/UnderConstruction.png" width="100" />
 
