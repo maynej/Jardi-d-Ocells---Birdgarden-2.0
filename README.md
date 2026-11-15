@@ -7,7 +7,7 @@ Iniciativa educativa que combina la passió per la natura (en particular els oce
 
 <img src="Imatges/Esquema.png" width="400" />
 
-GitHub del firmware original desenvolupat per Il Faro d'Argento (Roma) <img src="Imatges/LogoFaro.png" width="199" /> 
+GitHub del firmware original desenvolupat per Il Faro d'Argento (Roma) <img src="Imatges/LogoFaro.png" width="150" /> 
 https://github.com/idamato/birdgarden
 
 Realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study jordi.mayne@mechatronicstudy.com <img src="Imatges/Logo3senseFons.png" width="50" />
